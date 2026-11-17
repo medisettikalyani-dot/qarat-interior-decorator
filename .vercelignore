@@ -1,0 +1,6 @@
+.git
+.chrome-temp
+.hallmark
+qarat_*.json
+*.log
+public/*.png

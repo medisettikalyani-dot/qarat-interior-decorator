@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# scratch and temporary artifacts
+.chrome-temp
+.hallmark
+qarat_*.json
+*.log
+public/*.png
